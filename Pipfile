@@ -11,7 +11,6 @@ nltk = "*"
 spacy = "*"
 pandas = "*"
 beautifulsoup4 = "*"
-wptools = "*"
 
 [dev-packages]
 
