@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+wikitextparser = "*"
+requests = "*"
+python-dateutil = "*"
+nltk = "*"
+spacy = "*"
+pandas = "*"
+beautifulsoup4 = "*"
+wptools = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
