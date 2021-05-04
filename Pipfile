@@ -11,6 +11,7 @@ nltk = "*"
 spacy = "*"
 pandas = "*"
 beautifulsoup4 = "*"
+sparqlwrapper = "*"
 
 [dev-packages]
 
